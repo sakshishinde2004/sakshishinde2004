@@ -1,9 +1,9 @@
 ## Hi, I’m Sakshi Shinde 👩‍💻
-👩‍💻 Computer Science Engineering Student
-🌐 Enthusiast in Web Development & Data Analytics
-🔍 Interested in MERN Stack, DSA, and Machine Learning
-📊 Exploring predictive analytics & real-world applications
-✨ Driven by teamwork, innovation, and continuous learning
+!👩‍💻 Computer Science Engineering Student
+!🌐 Enthusiast in Web Development & Data Analytics
+!🔍 Interested in MERN Stack, DSA, and Machine Learning
+!📊 Exploring predictive analytics & real-world applications
+!✨ Driven by teamwork, innovation, and continuous learning
 
 
 ## 🌐 Socials:
